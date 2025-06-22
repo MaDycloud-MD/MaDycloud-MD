@@ -48,9 +48,9 @@
 
 ### 🧰 Tech Stack & Tools
 
-| Programming Languages |   Cloud ☁️  | DevOps ⚙️                       | AI/ML 🤖         | Frontend 🌐        | Backend 🔙      | DB 🗃️ |
-|-----------------------|------------|---------------------------------|------------------|--------------------|----------------|--------------|
-    C, Java, Python     | AWS, Azure | Docker, K8s, Jenkins, Terraform | TensorFlow, CNNs | React, TailwindCSS | Flask, Node.js | MongoDB, SQL |
+| Programming 🧑‍💻 | Cloud ☁️   | DevOps ⚙️                       | AI/ML 🤖         | Frontend 🌐        | Backend 🔙     | DB 🗃️       |
+| ----------------- | ---------- | ------------------------------- | ---------------- | ------------------ | -------------- | ------------ |
+| Python, Java, C   | AWS, Azure | Docker, K8s, Jenkins, Terraform | TensorFlow, CNNs | React, TailwindCSS | Flask, Node.js | MongoDB, SQL |
 
 ---
 
