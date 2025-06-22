@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Hey!+I'm+Mohammed+Shoaib+👋;Cloud+%26+DevOps+Engineer;AI+%7C+Security+%7C+Automation" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🌟 Mohammed Shoaib M. 🌟</h1>
+<h1 align="center">🌟 Mohammed Shoaib. M 🌟</h1>
 
 <p align="center">
   <b>Cloud | DevSecOps | Full Stack | AI-Driven Solutions</b><br/>
