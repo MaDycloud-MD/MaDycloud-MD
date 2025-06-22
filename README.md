@@ -68,7 +68,7 @@
 ### 🧑‍🎓 Education
 
 - 🎓 **Bachelor of Computer Application (BCA)** – Rani Channamma University (CGPA: 8.37)
-- 🎓 **Diploma in Computer Science** – Jain Polytechnic (CGPA: 9.52)
+- 🎓 **Diploma in Computer Science and Engineering** – Jain Polytechnic (CGPA: 9.52)
 
 ---
 
