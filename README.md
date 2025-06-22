@@ -80,7 +80,7 @@
 
 ---
 
-### 📈 GitHub Stats (Dark/Light Mode)
+### 📈 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaDycloud-MD&show_icons=true&theme=tokyonight&hide_border=true" alt="Shoaib's GitHub Stats" />
