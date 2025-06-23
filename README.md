@@ -24,7 +24,6 @@
 - 📍 Based in Belgavi, Karnataka
 
 ## Social Media
-- 📫 [Email Me](mailto:md.shoaib.i.makandar@gmail.com)
 
 <p align="left">
    <a href="mailto:md.shoaib.i.makandar@gmail.com"> 
@@ -42,8 +41,8 @@
   <a href="https://medium.com/@myself.md" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/medium.svg" alt="LeetCode" height="30" width="40" />
   </a>
-
 </p>
+
 
 ---
 
@@ -68,11 +67,143 @@
 
 ### 🧰 Tech Stack & Tools
 
-| Programming 🧑‍💻 | Cloud ☁️   | DevOps ⚙️                       | AI/ML 🤖         | Frontend 🌐        | Backend 🔙     | DB 🗃️       |
-| ----------------- | ---------- | ------------------------------- | ---------------- | ------------------ | -------------- | ------------ |
-| Python, Java, C   | AWS, Azure | Docker, K8s, Jenkins, Terraform | TensorFlow, CNNs | React, TailwindCSS | Flask, Node.js | MongoDB, SQL |
+#### Languages and Tools:
+<h3 align="left">Programming Languages </h3>
 
----
+<p align="left">
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+</a>
+
+<h3 align="left">DevOps and Cloud </h3>
+
+
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+</a> 
+
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+</a> 
+
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+</a> 
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/terraform.svg" alt="jenkins" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
+</a> 
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a> 
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/argocd.svg" alt="jenkins" width="40" height="40"/> 
+</a> 
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/prometheus.svg" alt="jenkins" width="40" height="40"/> 
+</a> 
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/grafana.svg" alt="jenkins" width="40" height="40"/> 
+</a> 
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/grafana.svg" alt="jenkins" width="40" height="40"/> 
+</a> 
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/helm.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/ansible.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/nginx.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/apache.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+
+<h3 align="left">Databases </h3>
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/mysql.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/mongodb.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+
+<h3 align="left">Tools and Tech </h3>
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/git.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/github.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/vim.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/nano.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/visual-studio-code.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/jira.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/linux.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/unix.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/windows-11.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+</a> 
+
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/keras.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+
+</p>
 
 ### 📜 Certifications
 
