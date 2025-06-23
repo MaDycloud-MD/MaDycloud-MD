@@ -70,7 +70,7 @@
 ### 🧰 Tech Stack & Tools
 
 #### Languages and Tools:
-<h3 align="left">Programming Languages </h3>
+<h5 align="left">Programming Languages </h5>
 
 <p align="left">
 
@@ -86,7 +86,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 </a>
 
-<h3 align="left">DevOps and Cloud </h3>
+<h5 align="left">DevOps and Cloud </h5>
 
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -149,7 +149,7 @@
 <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/apache.svg" alt="jenkins" width="40" height="40"/> 
 </a>
 
-<h3 align="left">Databases </h3>
+<h5 align="left">Databases </h5>
 
 <a href="#" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/mysql.svg" alt="jenkins" width="40" height="40"/> 
@@ -159,7 +159,7 @@
 <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/mongodb.svg" alt="jenkins" width="40" height="40"/> 
 </a>
 
-<h3 align="left">Tools and Tech </h3>
+<h5 align="left">Tools and Tech </h5>
 
 <a href="#" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/git.svg" alt="jenkins" width="40" height="40"/> 
