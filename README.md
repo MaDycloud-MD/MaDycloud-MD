@@ -34,6 +34,10 @@
     <a href="https://leetcode.com/u/myselfmd/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
+  <a href="https://medium.com/@myself.md" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/medium.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+
 </p>
 
 ---
