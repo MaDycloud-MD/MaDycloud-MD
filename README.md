@@ -130,10 +130,6 @@
 </a> 
 
 <a href="#" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/grafana.svg" alt="jenkins" width="40" height="40"/> 
-</a> 
-
-<a href="#" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/helm.svg" alt="jenkins" width="40" height="40"/> 
 </a>
 
