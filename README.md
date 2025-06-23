@@ -218,26 +218,11 @@
 
 ### 📈 GitHub Stats 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MaDycloud-MD&show_icons=true&theme=tokyonight&hide_border=true" alt="Shoaib's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaDycloud-MD&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:md.shoaib.i.makandar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/myselfmd">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MaDycloud-MD">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
 
 ---
 
