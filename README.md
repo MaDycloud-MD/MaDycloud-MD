@@ -23,7 +23,7 @@
 
 - 📍 Based in Belgavi, Karnataka
 - 📫 [Email Me](mailto:md.shoaib.i.makandar@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/myselfmd) | [GitHub](https://github.com/MaDycloud-MD) | [Portfolio](#)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/myselfmd) | [GitHub](https://github.com/MaDycloud-MD) | [Portfolio](https://madycloud.vercel.app/)
 
 ---
 
