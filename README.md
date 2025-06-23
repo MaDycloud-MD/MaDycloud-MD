@@ -68,10 +68,6 @@
 ---
 
 ### 🧰 Tech Stack & Tools
-
-#### Languages and Tools:
-<h5 align="left">Programming Languages </h5>
-
 <p align="left">
 
 <!-- Programming Languages -->
