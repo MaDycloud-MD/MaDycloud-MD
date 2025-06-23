@@ -23,7 +23,18 @@
 
 - 📍 Based in Belgavi, Karnataka
 - 📫 [Email Me](mailto:md.shoaib.i.makandar@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/myselfmd) | [GitHub](https://github.com/MaDycloud-MD) | [Portfolio](https://madycloud.vercel.app/)
+
+<p align="left">
+    <a href="https://https://www.linkedin.com/in/myselfmd" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/myself.md" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    </a>
+    <a href="https://leetcode.com/myselfmd/" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg alt="LeetCode" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
