@@ -22,6 +22,8 @@
 ```
 
 - 📍 Based in Belgavi, Karnataka
+
+## Social Media
 - 📫 [Email Me](mailto:md.shoaib.i.makandar@gmail.com)
 
 <p align="left">
