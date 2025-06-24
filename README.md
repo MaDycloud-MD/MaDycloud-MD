@@ -113,7 +113,33 @@
 <div class="border border-gray-300 rounded-xl p-4 shadow-md bg-white dark:bg-gray-900 mb-6">
   <h5 class="text-center text-xl font-semibold text-gray-700 dark:text-gray-200 mb-3">Tools & Technologies</h5>
   <div class="flex justify-center flex-wrap gap-4">
-    <!-- Add Git, GitHub, VS Code, etc. icons -->
+    <a href="#">
+    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/git.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/github2.svg" alt="github" width="40" height="40"/>
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/vim.svg" alt="vim" width="40" height="40"/>
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/nano.svg" alt="nano" width="40" height="40"/>
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/visual-studio-code.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/jira.svg" alt="jira" width="40" height="40"/>
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/linux.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/unix.svg" alt="unix" width="40" height="40"/>
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/windows-11.svg" alt="windows" width="40" height="40"/>
+  </a>
   </div>
 </div>
 
