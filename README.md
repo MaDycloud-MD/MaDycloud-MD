@@ -221,8 +221,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaDycloud-MD&show_icons=true&theme=tokyonight&hide_border=true" alt="Shoaib's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaDycloud-MD&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=MaDycloud-MD&theme=tokyonight&hide_border=true)
-
+  
 </p>
 
 
