@@ -15,8 +15,8 @@
 ### 🧑‍💻 About Me
 
 ```diff
-+ 🔭 Currently working on: Smart city automation & secure cloud apps
-+ 🌱 Learning: Advanced Kubernetes, CloudSec, Firebase Admin
++ 🔭 Currently working on: Task automation & secure cloud apps
++ 🌱 Learning: Advanced Kubernetes, CloudSec, Public clouds and DSA
 + 💬 Ask me about: DevOps, SaaS deployments, ML APIs, AWS infra
 + 🧠 Fun Fact: I believe AI can make sanitation smarter 🚮🧹
 ```
@@ -184,7 +184,6 @@
     <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/keras.svg" alt="keras" width="40" height="40"/>
   </a>
 </div>
-
 
 </p>
 
