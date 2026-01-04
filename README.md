@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Hey!+I'm+Mohammed+Shoaib+👋;Cloud+%26+DevOps+Engineer;AI+%7C+Security+%7C+Automation" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🌟 Mohammed Shoaib. M 🌟</h1>
+<h1 align="center"> Mohammed Shoaib. M </h1>
 
 <p align="center">
   <b>Cloud | DevSecOps | Full Stack | AI-Driven Solutions</b><br/>
@@ -12,13 +12,13 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 ```diff
-+ 🔭 Currently working on: Task automation & secure cloud apps
-+ 🌱 Learning: Advanced Kubernetes, CloudSec, Public clouds and DSA
-+ 💬 Ask me about: DevOps, SaaS deployments, ML APIs, AWS infra
-+ 🧠 Fun Fact: I believe AI can make sanitation smarter 🚮🧹
++  Currently working on: Task automation & secure cloud apps
++  Learning: Advanced Kubernetes, CloudSec, Public clouds and DSA
++  Ask me about: DevOps, SaaS deployments, ML APIs, AWS infra
++  Fun Fact: I believe AI can make sanitation smarter 🚮🧹
 ```
 
 - 📍 Based in Belgavi, Karnataka
@@ -48,26 +48,26 @@
 
 ---
 
-### 🚀 Projects That Matter
+### Projects That Matter
 
 #### 🏙️ [City Wellness – Smart Urban Reporting](https://github.com/Tasneemgokak/SmartCitywellness)
 > AI-powered reporting system for municipal waste issues
 
-- 📸 Voice, GPS, Image-based citizen reporting
-- ♻️ CNN model classifies waste (92% accuracy)
-- 🔒 Role-based admin panel, complaint escalation
-- 📊 MongoDB-powered analytics for route planning
+- Voice, GPS, Image-based citizen reporting
+- CNN model classifies waste (92% accuracy)
+- Role-based admin panel, complaint escalation
+- MongoDB-powered analytics for route planning
 
 #### 🎬 DevSecOps Netflix Clone
 
-- 🔐 Trivy + SonarQube for CI/CD security
-- 🐳 Dockerized microservices deployed on AWS EKS
-- 📦 Helm + ArgoCD pipelines
-- 📈 Monitored using Prometheus & Grafana
+- Trivy + SonarQube for CI/CD security
+- Dockerized microservices deployed on AWS EKS
+- Helm + ArgoCD pipelines
+- Monitored using Prometheus & Grafana
 
 ---
 
-### 🧰 Tech Stack & Tools
+### Tech Stack & Tools
 <p align="left">
 
 <!-- Programming Languages -->
@@ -189,7 +189,7 @@
 
 ---
 
-### 📜 Certifications
+### Certifications
 
 ![Oracle ERP](https://img.shields.io/badge/Oracle%20ERP-Certified-blueviolet?style=flat-square&logo=oracle)
 ![Cloud SCM](https://img.shields.io/badge/Oracle%20SCM-Certified-brightgreen?style=flat-square&logo=oracle)
@@ -200,22 +200,22 @@
 
 ---
 
-### 🧑‍🎓 Education
+### Education
 
 - 🎓 **Bachelor of Computer Application (BCA)** – Rani Channamma University (CGPA: 8.37)
 - 🎓 **Diploma in Computer Science and Engineering** – Jain Polytechnic (CGPA: 9.52)
 
 ---
 
-### 🏆 Extras & Initiatives
+### Extras & Initiatives
 
-- 👔 Placement Coordinator: Resume reviews, mock interviews
-- 🛠️ Event Organizer: Tech fests & hackathons
-- 🔐 Cybersecurity Workshop Volunteer: 100+ student participants
-
+- Teaching Assistant: Delivered lectures on multiple academic courses and helped students clear academic doubts.
+- Placement Coordinator: Organized company drives, peer resume reviews, and mock interviews.
+- Event Organizer: Managed technical and cultural events with smooth logistics and high participation.
+- Cybersecurity Workshop Volunteer: Supported Secuneus Tech in hands-on sessions for 150+ students.
 ---
 
-### 📈 GitHub Stats 
+### GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaDycloud-MD&show_icons=true&theme=tokyonight&hide_border=true" alt="Shoaib's GitHub Stats" />
