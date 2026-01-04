@@ -7,7 +7,9 @@
 
 <p align="center">
   <b>Cloud | DevSecOps | Full Stack | AI-Driven Solutions</b><br/>
-  <i>Crafting clean tech for a cleaner planet 🌍</i>
+  <i>DevOps and SRE-focused undergraduate with hands-on experience in AWS, Kubernetes, Docker, Terraform, and CI CD pipelines through
+      internships and academic projects. Seeking DevOps or SRE internships and entry-level roles to build reliable cloud systems using
+      automation, monitoring, and backend scripting with Python and Java</i>
 </p>
 
 ---
@@ -16,7 +18,7 @@
 
 ```diff
 +  Currently working on: Task automation & secure cloud apps
-+  Learning: Advanced Kubernetes, CloudSec, Public clouds and DSA
++  Learning: Advanced Kubernetes, CloudSec, Public clouds, and DSA
 +  Ask me about: DevOps, SaaS deployments, ML APIs, AWS infra
 +  Fun Fact: I believe AI can make sanitation smarter 🚮🧹
 ```
