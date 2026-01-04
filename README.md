@@ -20,7 +20,7 @@
 +  Currently working on: Task automation & secure cloud apps
 +  Learning: Advanced Kubernetes, CloudSec, Public clouds, and DSA
 +  Ask me about: DevOps, SaaS deployments, ML APIs, AWS infra
-+  Fun Fact: I believe AI can make sanitation smarter 🚮🧹
++  Fun Fact: I believe AI can make sanitation smarter
 ```
 
 - 📍 Based in Belgavi, Karnataka
@@ -41,9 +41,6 @@
     </a>
     <a href="https://leetcode.com/u/myselfmd/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@myself.md" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/medium.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
