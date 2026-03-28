@@ -49,7 +49,7 @@
 
 ### Projects That Matter
 
-#### 🏙️ [City Wellness – Smart Urban Reporting](https://github.com/Tasneemgokak/SmartCitywellness)
+#### [City Wellness – Smart Urban Reporting](https://github.com/Tasneemgokak/SmartCitywellness)
 > AI-powered reporting system for municipal waste issues
 
 - Voice, GPS, Image-based citizen reporting
@@ -57,7 +57,7 @@
 - Role-based admin panel, complaint escalation
 - MongoDB-powered analytics for route planning
 
-#### 🎬 DevSecOps Netflix Clone
+#### CloudForge
 
 - Trivy + SonarQube for CI/CD security
 - Dockerized microservices deployed on AWS EKS
