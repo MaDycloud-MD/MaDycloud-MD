@@ -1,232 +1,148 @@
-<!-- Profile Banner or Animated Heading (Optional) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Hey!+I'm+Mohammed+Shoaib+👋;Cloud+%26+DevOps+Engineer;AI+%7C+Security+%7C+Automation" alt="Typing SVG" />
-</p>
+# Mohammed Shoaib. Makandar
 
-<h1 align="center"> Mohammed Shoaib. M </h1>
+> 🟢 **Open to SDE · SWE · Cloud DevOps · SRE roles**
+
+Architecting the infrastructure, building the frontend, and automating the deployment.
+DevOps & Full-Stack Engineer delivering reliable end-to-end solutions using
+`MERN` · `AWS` · `Docker` · `Jenkins` · `Prometheus` · `Grafana`
 
 <p align="center">
-  <b>Cloud | DevSecOps | Full Stack | AI-Driven Solutions</b><br/>
-  <i>DevOps and SRE-focused undergraduate with hands-on experience in AWS, Kubernetes, Docker, Terraform, and CI CD pipelines through
-      internships and academic projects. Seeking DevOps or SRE internships and entry-level roles to build reliable cloud systems using
-      automation, monitoring, and backend scripting with Python and Java</i>
+  <a href="mailto:md.shoaib.i.makandar@gmail.com">
+    <img src="https://www.madycloud.me/logos/gmail.svg" width="16" alt="Email" style="vertical-align: middle;"> md.shoaib.i.makandar@gmail.com
+  </a> &nbsp;|&nbsp; 
+  <a href="https://linkedin.com/in/myselfmd">
+    <img src="https://www.madycloud.me/logos/linkedin.svg" width="16" alt="Portfolio" style="vertical-align: middle;"> linkedin.com/in/myselfmd
+  </a> &nbsp;|&nbsp; 
+  <a href="https://madycloud.me">
+    <img src="https://www.madycloud.me/logos/chrome.svg" width="16" alt="Website" style="vertical-align: middle;"> madycloud.me
+  </a> &nbsp;|&nbsp; 
+  <img src="https://cdn.simpleicons.org/googlemaps/EA4335" width="16" alt="Location" style="vertical-align: middle;"> Belgavi, Karnataka.
 </p>
 
 ---
 
-### About Me
+## Impact at a Glance
 
-```diff
-+  Currently working on: Task automation & secure cloud apps
-+  Learning: Advanced Kubernetes, CloudSec, Public clouds, and DSA
-+  Ask me about: DevOps, SaaS deployments, ML APIs, AWS infra
-+  Fun Fact: I believe AI can make sanitation smarter
-```
-
-- 📍 Based in Belgavi, Karnataka
+| **40%** | **92%** | **60%** | **99.9%** |
+|:---:|:---:|:---:|:---:|
+| Q1 Revenue Growth · AWS SaaS | CNN Model Accuracy · City Wellness | Faster Release Cycles · CloudForge | Service Uptime · CloudForge |
 
 ---
 
-### Social Media
+## 🚀 Featured Projects
+
+### City Wellness — AI Waste Reporting
+`Full Stack · ML · AWS`
+
+Smart waste management with voice, image & GPS reporting. TensorFlow CNN on AWS with auto-scaling CI/CD and real-time analytics.
+
+**Highlights:** `92% accuracy` `99.95% uptime`  
+**Stack:** `MERN` `Docker` `GitHub Actions`
+
+---
+
+### ☁️ CloudForge — DevSecOps Platform
+`DevSecOps · Kubernetes · AWS`
+
+End-to-end pipeline with Jenkins, Trivy, SonarQube, EKS via Helm + ArgoCD. Proactive monitoring with Prometheus & Grafana.
+
+**Highlights:** `60% faster releases` `20% cost savings`  
+**Stack:** `K8s` `Grafana` `Terraform`
+
+---
+
+### Deep Packet Inspection Engine
+`Java · Systems Engineering`
+
+2,200+ LOC multi-threaded DPI engine — zero-copy concurrent pipeline, custom TLS 1.2/1.3 SNI parser, stateful TCP tracking. HTTPS app classification (YouTube, Netflix) without third-party libraries.
+
+**Highlights:** `100K active connections` `O(1) rule lookups`  
+**Stack:** `Java` `Maven` `Multi-threading`
+
+---
+
+### SSDC Gokak — College Website
+`Freelance · Full Stack · Next.js`
+
+Full-stack college website with secure admin dashboard, online admission system, and Cloudinary-powered photo gallery. Decoupled Next.js 14 frontend (Vercel) + Express.js backend (Render) with Firebase Auth, role-based access, and 30-min idle session security. Technical SEO via dynamic sitemaps, canonical URLs, and state-aware metadata.
+
+**Highlights:** `Live · Production`  
+**Stack:** `Next.js 14` `Express.js` `MongoDB` `Firebase` `Cloudinary` `Tailwind`
+
+---
+
+## 🛠️ Technical Skills
+
+| Category | Skills |
+|---|---|
+| **Cloud & Infra** | AWS ECS/EKS · Azure · Terraform · Helm · Ansible |
+| **DevOps & CI/CD** | Docker · Kubernetes · Jenkins · ArgoCD · GitHub Actions |
+| **Security & Observability** | Trivy · SonarQube · Prometheus · Grafana |
+| **Languages** | Java · Python · JavaScript · C · SQL |
+| **Web / Full Stack** | Next.js · React · Node.js · Express · Tailwind · HTML/CSS |
+| **AI/ML + Databases** | TensorFlow · Keras · MongoDB · MySQL |
+
+---
+
+## 📚 Relevant Coursework
+
+`Cloud Computing` `Data Structures & Algorithms` `Operating Systems & Administration`
+`Computer Networks` `DBMS` `Object-Oriented Programming` `Software Engineering` `Advanced Java`
+
+---
+
+## 💼 Experience
+
+### Junior Cloud Engineer Intern
+**Eyesec Cybersecurity Solutions Pvt. Ltd** · *Mar 2023 – Jun 2023*
+
+Architected a scalable AWS SaaS solution — evaluated 50+ use cases, managed ECS & load balancers, drove **40% Q1 revenue growth** and 6.33% sales uplift while maintaining high availability.
+
+---
+
+### Network & CRM Intern
+**Bharat Sanchar Nigam Limited (BSNL)** · *Sep 2022 – Oct 2022*
+
+Supported FTTH operations and CRM implementation for sales workflow automation. Reduced admin workload by **10%**, improved operational efficiency by 5%.
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Score / Year |
+|---|---|---|
+| Minor in Computer Science | Indian Institute of Technology, Patna | Credits 20  · 2027 |
+| BCA | Rani Channamma University, Belgavi | CGPA 8.37 · 2027 |
+| Diploma — CS & Engg (Majors: Cloud Computing) | Jain Polytechnic, Belgavi | CGPA 9.52 · 2023 |
+
+---
+
+## 🏅 Certifications
+
+- 📜 Oracle ERP Cloud
+- 📜 Oracle SCM Cloud
+- 📜 Oracle HCM Cloud
+- 📜 Office Automation
 
 <p align="left">
-   <a href="mailto:md.shoaib.i.makandar@gmail.com"> 
-     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="40"/>
-     </a>
-    <a href="https://www.linkedin.com/in/myselfmd" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/myself.md" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    </a>
-    <a href="https://leetcode.com/u/myselfmd/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
-
----
-
-### Projects That Matter
-
-#### [City Wellness – Smart Urban Reporting](https://github.com/Tasneemgokak/SmartCitywellness)
-> AI-powered reporting system for municipal waste issues
-
-- Voice, GPS, Image-based citizen reporting
-- CNN model classifies waste (92% accuracy)
-- Role-based admin panel, complaint escalation
-- MongoDB-powered analytics for route planning
-
-#### CloudForge
-
-- Trivy + SonarQube for CI/CD security
-- Dockerized microservices deployed on AWS EKS
-- Helm + ArgoCD pipelines
-- Monitored using Prometheus & Grafana
-
----
-
-### Tech Stack & Tools
-<p align="left">
-
-<!-- Programming Languages -->
-<h5 align="center">Programming Languages</h5>
-<div align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-</div>
-
-<!-- DevOps and Cloud -->
-<h5 align="center">DevOps and Cloud</h5>
-<div align="center">
-  <a align = "center" href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a align = "center" href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a align = "center" href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/terraform.svg" alt="terraform" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/argocd.svg" alt="argocd" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/prometheus.svg" alt="prometheus" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/grafana.svg" alt="grafana" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/helm.svg" alt="helm" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/ansible.svg" alt="ansible" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/nginx.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/apache.svg" alt="apache" width="40" height="40"/>
-  </a>
-</div>
-
-<!-- Databases -->
-<h5 align="center">Databases</h5>
-<div align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/mysql.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/mongodb.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-</div>
-
-<!-- Tools and Tech -->
-<h5 align="center">Tools and Tech</h5>
-<div align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/git.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/github2.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/vim.svg" alt="vim" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/nano.svg" alt="nano" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/visual-studio-code.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/jira.svg" alt="jira" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/linux.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/unix.svg" alt="unix" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/windows-11.svg" alt="windows" width="40" height="40"/>
-  </a>
-</div>
-
-<!-- AI & ML -->
-<h5 align="center">AI / Machine Learning</h5>
-<div align="center">
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MaDycloud-MD/MD_Portfolio/refs/heads/main/public/logos/keras.svg" alt="keras" width="40" height="40"/>
-  </a>
-</div>
-
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=63A9C307421DA9E029F6439932D082379FF624B815214AB311EB6F4FBFA2754D">
+    <img src="https://res.cloudinary.com/dhgskjf0m/image/upload/v1775039473/portfolio/certifications/qzadqtb72u8slnblqouq.png" width="16" alt="Email" style="vertical-align: middle;">	Oracle Fusion Cloud Applications ERP Certified Foundations Associate
+  </a> &nbsp;|&nbsp; 
 </p>
 
 ---
 
-### Certifications
+## 🌟 Roles & Initiatives
 
-![Oracle ERP](https://img.shields.io/badge/Oracle%20ERP-Certified-blueviolet?style=flat-square&logo=oracle)
-![Cloud SCM](https://img.shields.io/badge/Oracle%20SCM-Certified-brightgreen?style=flat-square&logo=oracle)
-![Cloud HCM](https://img.shields.io/badge/Oracle%20HCM-Certified-yellow?style=flat-square&logo=oracle)
-![Office Automation](https://img.shields.io/badge/Office%20Automation-Certified-orange?style=flat-square&logo=microsoftoffice)
-
-🔗 [View all my badges](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A7CA5AE82E10511ABFAC7335EDFABBCD988720D016ECC52715BF79AF6EE36C17)
-
----
-
-### Education
-
-- 🎓 **Bachelor of Computer Application (BCA)** – Rani Channamma University (CGPA: 8.37)
-- 🎓 **Diploma in Computer Science and Engineering** – Jain Polytechnic (CGPA: 9.52)
+| Role | Details |
+|---|---|
+| **Teaching Assistant** | Delivered lectures on 3+ courses, helped 90+ students clear doubts. |
+| **Placement Coordinator** | Organised company drives, resume reviews & mock interviews. |
+| **Event Organiser** | Managed technical & cultural events with smooth logistics. |
+| **Cybersecurity Volunteer** | Supported Secuneus Tech, hands-on sessions for 200+ students. |
 
 ---
 
-### Extras & Initiatives
-
-- Teaching Assistant: Delivered lectures on multiple academic courses and helped students clear academic doubts.
-- Placement Coordinator: Organized company drives, peer resume reviews, and mock interviews.
-- Event Organizer: Managed technical and cultural events with smooth logistics and high participation.
-- Cybersecurity Workshop Volunteer: Supported Secuneus Tech in hands-on sessions for 150+ students.
----
-
-### GitHub Stats 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaDycloud-MD&show_icons=true&theme=tokyonight&hide_border=true" alt="Shoaib's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaDycloud-MD&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaDycloud-MD&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views" />
-</p>
-
-<p align="center"><i>"Code smart. Deploy safer. Think impact."</i></p>
+<div align="center">
+  <i>"Code smart. Deploy safer. Think impact."</i>
+</div>
