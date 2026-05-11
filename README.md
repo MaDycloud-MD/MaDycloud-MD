@@ -119,15 +119,38 @@ Supported FTTH operations and CRM implementation for sales workflow automation. 
 
 ## 🏅 Certifications
 
-- 📜 Oracle ERP Cloud
-- 📜 Oracle SCM Cloud
-- 📜 Oracle HCM Cloud
-- 📜 Office Automation
-
 <p align="left">
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=63A9C307421DA9E029F6439932D082379FF624B815214AB311EB6F4FBFA2754D">
-    <img src="https://res.cloudinary.com/dhgskjf0m/image/upload/v1775039473/portfolio/certifications/qzadqtb72u8slnblqouq.png" width="16" alt="Email" style="vertical-align: middle;">	Oracle Fusion Cloud Applications ERP Certified Foundations Associate
-  </a> &nbsp;|&nbsp; 
+  <ul> 
+    <li> 
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=63A9C307421DA9E029F6439932D082379FF624B815214AB311EB6F4FBFA2754D">
+      <img src="https://res.cloudinary.com/dhgskjf0m/image/upload/v1775039473/portfolio/certifications/qzadqtb72u8slnblqouq.png" width="16" alt="Email">	Oracle Fusion Cloud Applications ERP Certified Foundations Associate
+    </a> &nbsp;|&nbsp; 
+  </li>
+  
+  <li> 
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D123AB165397D80B055C0277A5ACC5CBD0DB432D050DC324AB26E2DD058AD2E7">
+      <img src="https://res.cloudinary.com/dhgskjf0m/image/upload/v1775040037/portfolio/certifications/znam4xl7k4heslyyrlxx.png" width="16" alt="Email">	Oracle Fusion Cloud Applications CX Certified Foundations Associate
+    </a> &nbsp;|&nbsp;
+  </li>
+  
+  <li> 
+     <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=B6DB4FCE8EB45465222C782AE0A9B5D38C372BD4757DB6F3E8248E2C475BE885">
+      <img src="https://res.cloudinary.com/dhgskjf0m/image/upload/v1775040219/portfolio/certifications/r22gfmu7pb14hk3ach9n.png" width="16" alt="Email">	Oracle Fusion Cloud Applications SCM Certified Foundations Associate
+    </a> &nbsp;|&nbsp;
+  </li>
+  
+  <li> 
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D5B5689ACFCB6631F44DE9619D938A1128C91F799853ED6BFAACA86A842A417A">
+      <img src="https://res.cloudinary.com/dhgskjf0m/image/upload/v1775040263/portfolio/certifications/yqslpgi4t7etufv5g5df.png" width="16" alt="Email">	Oracle Fusion Cloud Applications HCM Certified Foundations Associate
+    </a> &nbsp;|&nbsp;
+  </li>
+  
+  <li> 
+    <a href="https://drive.google.com/file/d/14-ZVIGmb0FwR24SSacIve5zVnQ9j9dhy/view?usp=sharing">
+      <img src="https://res.cloudinary.com/dhgskjf0m/image/upload/v1775040336/portfolio/certifications/mkdocieehwzmibhq8bmk.jpg" width="16" alt="Email">	Oracle Fusion Cloud Applications HCM Certified Foundations Associate
+    </a> &nbsp;|&nbsp;
+    </li>
+ </ul>
 </p>
 
 ---
